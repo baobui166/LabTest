@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De02.GUI", "De02.Gui\De02.GUI.csproj", "{07FAC380-0FE1-407D-A340-4667FBD7E1FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De02.BUS", "De02.BUS\De02.BUS.csproj", "{42A1BC17-F8BF-48BE-9BB2-9183E68C4C0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De02.DAL", "De02.DAL\De02.DAL.csproj", "{8CBD90B1-FA47-4BC5-9F8E-B3CA38CCB4BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07FAC380-0FE1-407D-A340-4667FBD7E1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FAC380-0FE1-407D-A340-4667FBD7E1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FAC380-0FE1-407D-A340-4667FBD7E1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FAC380-0FE1-407D-A340-4667FBD7E1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A1BC17-F8BF-48BE-9BB2-9183E68C4C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A1BC17-F8BF-48BE-9BB2-9183E68C4C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A1BC17-F8BF-48BE-9BB2-9183E68C4C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A1BC17-F8BF-48BE-9BB2-9183E68C4C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CBD90B1-FA47-4BC5-9F8E-B3CA38CCB4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBD90B1-FA47-4BC5-9F8E-B3CA38CCB4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBD90B1-FA47-4BC5-9F8E-B3CA38CCB4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBD90B1-FA47-4BC5-9F8E-B3CA38CCB4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F2845E2-FF9E-4B4B-BDA0-CF51C2900755}
+	EndGlobalSection
+EndGlobal

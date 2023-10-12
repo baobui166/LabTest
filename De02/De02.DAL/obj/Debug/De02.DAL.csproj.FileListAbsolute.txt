@@ -1,0 +1,12 @@
+D:\BuiChiBao_2180609264\De02\De02.DAL\bin\Debug\De02.DAL.dll.config
+D:\BuiChiBao_2180609264\De02\De02.DAL\bin\Debug\De02.DAL.dll
+D:\BuiChiBao_2180609264\De02\De02.DAL\bin\Debug\De02.DAL.pdb
+D:\BuiChiBao_2180609264\De02\De02.DAL\bin\Debug\EntityFramework.dll
+D:\BuiChiBao_2180609264\De02\De02.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\BuiChiBao_2180609264\De02\De02.DAL\bin\Debug\EntityFramework.xml
+D:\BuiChiBao_2180609264\De02\De02.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\BuiChiBao_2180609264\De02\De02.DAL\obj\Debug\De02.DAL.csproj.AssemblyReference.cache
+D:\BuiChiBao_2180609264\De02\De02.DAL\obj\Debug\De02.DAL.csproj.CoreCompileInputs.cache
+D:\BuiChiBao_2180609264\De02\De02.DAL\obj\Debug\De02.DAL.csproj.CopyComplete
+D:\BuiChiBao_2180609264\De02\De02.DAL\obj\Debug\De02.DAL.dll
+D:\BuiChiBao_2180609264\De02\De02.DAL\obj\Debug\De02.DAL.pdb
